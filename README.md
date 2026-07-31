@@ -34,7 +34,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/neural-divider.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -68,6 +68,10 @@ I build intelligent systems that read the world and act on it — from **large l
 > `# the problems I keep coming back to`
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/ai-core.svg" width="300" alt="AI core with orbiting skill nodes — Python, PyTorch, LLMs, Transformers, RAG, Agents, NLP"/>
+
+<br/><br/>
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-161b22?style=flat-square&labelColor=0d1117&color=30363d)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-161b22?style=flat-square&labelColor=0d1117&color=30363d)
@@ -165,6 +169,10 @@ I build intelligent systems that read the world and act on it — from **large l
 ## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `git log --stat`
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/commit-terminal.svg" width="80%" alt="git commit terminal — feat: planner + tool router, tests passed, deployed"/>
+
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumarsujay03&theme=github_dark" width="98%" alt="Profile summary"/>
 
