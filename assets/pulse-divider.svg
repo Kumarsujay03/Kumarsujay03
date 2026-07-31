@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60" preserveAspectRatio="none" role="img" aria-label="circuit trace divider with flowing data signal">
+  <defs>
+    <filter id="cg" x="-20%" y="-300%" width="140%" height="700%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- circuit route: horizontal trace with right-angle jogs (PCB style) -->
+  <!-- faint full trace (always visible) -->
+  <path d="M 0,30 H 200 V 15 H 360 V 30 H 560 V 45 H 720 V 30 H 940 V 16 H 1060 V 30 H 1200"
+        fill="none" stroke="#1b2129" stroke-width="1.6" stroke-linejoin="miter"/>
+
+  <!-- solder pads / vias at the bend points -->
+  <g fill="#0d1117" stroke="#30363d" stroke-width="1">
+    <rect x="196" y="11" width="8" height="8"/>
+    <rect x="356" y="26" width="8" height="8"/>
+    <rect x="556" y="41" width="8" height="8"/>
+    <rect x="716" y="26" width="8" height="8"/>
+    <rect x="936" y="12" width="8" height="8"/>
+    <rect x="1056" y="26" width="8" height="8"/>
+  </g>
+  <g fill="#30363d">
+    <circle cx="0" cy="30" r="2.5"/>
+    <circle cx="1200" cy="30" r="2.5"/>
+  </g>
+
+  <!-- lit data packet scanning the trace -->
+  <path pathLength="1000"
+        d="M 0,30 H 200 V 15 H 360 V 30 H 560 V 45 H 720 V 30 H 940 V 16 H 1060 V 30 H 1200"
+        fill="none" stroke="#58a6ff" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="round"
+        stroke-dasharray="110 1000" filter="url(#cg)">
+    <animate attributeName="stroke-dashoffset" values="1110;110" dur="4.5s" repeatCount="indefinite" calcMode="linear"/>
+  </path>
+
+  <!-- bright signal head riding the trace -->
+  <circle r="3.4" fill="#79c0ff" filter="url(#cg)">
+    <animateMotion dur="4.5s" repeatCount="indefinite" calcMode="linear"
+      path="M 0,30 H 200 V 15 H 360 V 30 H 560 V 45 H 720 V 30 H 940 V 16 H 1060 V 30 H 1200"/>
+  </circle>
+</svg>
