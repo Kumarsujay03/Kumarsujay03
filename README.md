@@ -34,7 +34,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/neural-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/pulse-divider.svg" width="100%" alt=""/>
 
 <br/>
 
