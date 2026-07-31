@@ -10,13 +10,13 @@
 <div align="center">
 
 <!--
-  Animated constellation banner (auto-loops; does NOT follow cursor - GitHub blocks JS).
+  Animated constellation banner (auto-loops; does NOT follow cursor — GitHub blocks JS).
   Must be referenced by RAW url so the SVG animation plays. Works once committed to the repo.
 -->
 <img
   src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/hero-constellation.svg"
   width="100%"
-  alt="Sujay Kumar - Machine Learning Engineer, AI Researcher"
+  alt="Sujay Kumar — Machine Learning Engineer, AI Researcher"
 />
 
 <a href="https://github.com/Kumarsujay03">
@@ -41,11 +41,11 @@
 <!-- ══════════════════ ABOUT ══════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `whoami`
 
-I build intelligent systems that read the world and act on it - from **large language models** and **agentic pipelines** to **financial ML** and production **NLP**. I care less about collecting tools and more about the reasoning behind a system: why an architecture holds, where it breaks, and what a benchmark actually proves.
+I build intelligent systems that read the world and act on it — from **large language models** and **agentic pipelines** to **financial ML** and production **NLP**. I care less about collecting tools and more about the reasoning behind a system: why an architecture holds, where it breaks, and what a benchmark actually proves.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/neofetch.svg" width="80%" alt="Sujay Kumar - system info: Software Engineer @ Accenture, ex-Research Intern @ ARIES, B.Tech ECE 2025, focus on LLMs, Agents, Financial ML, NLP"/>
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/neofetch.svg" width="80%" alt="Sujay Kumar — system info: Software Engineer @ Accenture, ex-Research Intern @ ARIES, B.Tech ECE 2025, focus on LLMs, Agents, Financial ML, NLP"/>
 
 </div>
 
@@ -56,9 +56,9 @@ I build intelligent systems that read the world and act on it - from **large lan
 
 | | Track | What I'm doing | Depth |
 |:--|:--|:--|:--|
-| 📄 | **Reading** | Agent architectures - ReAct, Toolformer, Plan-and-Solve, Reflexion | `███████░░░` |
-| ⚡ | **Building** | Financial ML - stock valuation, reverse-DCF; LLM agents | `████████░░` |
-| ✍️ | **Writing** | Weekly ML research breakdowns - papers, made accessible | `█████████░` |
+| 📄 | **Reading** | Agent architectures — ReAct, Toolformer, Plan-and-Solve, Reflexion | `███████░░░` |
+| ⚡ | **Building** | Financial ML — stock valuation, reverse-DCF; LLM agents | `████████░░` |
+| ✍️ | **Writing** | Weekly ML research breakdowns — papers, made accessible | `█████████░` |
 
 <br/>
 
@@ -69,7 +69,7 @@ I build intelligent systems that read the world and act on it - from **large lan
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/ai-core.svg" width="300" alt="AI core with orbiting skill nodes - Python, PyTorch, LLMs, Transformers, RAG, Agents, NLP"/>
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/ai-core.svg" width="300" alt="AI core with orbiting skill nodes — Python, PyTorch, LLMs, Transformers, RAG, Agents, NLP"/>
 
 <br/><br/>
 
@@ -95,50 +95,11 @@ I build intelligent systems that read the world and act on it - from **large lan
 
 > `# tools I reach for by default`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**Languages**
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/stack.svg" width="92%" alt="Tech stack: Python, TypeScript, JavaScript, C++, SQL, PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, NumPy, Pandas, FastAPI, Node.js, React, Next.js, MongoDB, PostgreSQL, Redis, Docker, AWS, Git, Linux"/>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=c9d1d9)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=c9d1d9)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=c9d1d9)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=c9d1d9)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=c9d1d9)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=c9d1d9)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=c9d1d9)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=c9d1d9)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0d1117?style=flat-square&logo=huggingface&logoColor=c9d1d9)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=c9d1d9)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=c9d1d9)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=c9d1d9)
-
-</td>
-<td width="50%" valign="top">
-
-**Backend / Web**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=c9d1d9)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=c9d1d9)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=c9d1d9)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=c9d1d9)
-
-**Data / Infra**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=c9d1d9)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=c9d1d9)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=c9d1d9)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=c9d1d9)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=c9d1d9)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=c9d1d9)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -149,17 +110,7 @@ I build intelligent systems that read the world and act on it - from **large lan
 
 <div align="center">
 
-![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=c9d1d9)
-![Transformers](https://img.shields.io/badge/Transformers-161b22?style=for-the-badge&logo=huggingface&logoColor=c9d1d9)
-![LangChain](https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=langchain&logoColor=c9d1d9)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-161b22?style=for-the-badge&logoColor=c9d1d9)
-![MLflow](https://img.shields.io/badge/MLflow-161b22?style=for-the-badge&logo=mlflow&logoColor=c9d1d9)
-![W&B](https://img.shields.io/badge/W%26B-161b22?style=for-the-badge&logo=weightsandbiases&logoColor=c9d1d9)
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=c9d1d9)
-![Ollama](https://img.shields.io/badge/Ollama-161b22?style=for-the-badge&logo=ollama&logoColor=c9d1d9)
-![vLLM](https://img.shields.io/badge/vLLM-161b22?style=for-the-badge&logoColor=c9d1d9)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-161b22?style=for-the-badge&logo=openai&logoColor=c9d1d9)
-![Anthropic](https://img.shields.io/badge/Anthropic%20API-161b22?style=for-the-badge&logo=anthropic&logoColor=c9d1d9)
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/toolbox.svg" width="80%" alt="AI toolbox: PyTorch, Transformers, LangChain, LlamaIndex, MLflow, W&B, FastAPI, Ollama, vLLM, OpenAI, Anthropic"/>
 
 </div>
 
@@ -170,7 +121,7 @@ I build intelligent systems that read the world and act on it - from **large lan
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/commit-terminal.svg" width="80%" alt="git commit terminal - feat: planner + tool router, tests passed, deployed"/>
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/commit-terminal.svg" width="80%" alt="git commit terminal — feat: planner + tool router, tests passed, deployed"/>
 
 <br/><br/>
 
@@ -201,7 +152,7 @@ I build intelligent systems that read the world and act on it - from **large lan
 <br/><br/>
 
 <!--
-  Contribution snake - generated by the Platane/snk GitHub Action into the `output` branch.
+  Contribution snake — generated by the Platane/snk GitHub Action into the `output` branch.
   Requires the snake workflow (see .github/workflows/snake.yml) to run at least once.
   It animates natively on github.com once the `output` branch exists.
 -->
@@ -217,12 +168,12 @@ I build intelligent systems that read the world and act on it - from **large lan
 <img src="https://img.shields.io/badge/44%2B%20certifications%20earned-161b22?style=flat-square&labelColor=0d1117&color=58a6ff&logo=coursera&logoColor=58a6ff" alt="44+ certifications"/>
 
 ```text
-[2026-02]  NLP Specialization                 - DeepLearning.AI
-[2026-02]  Deep Learning Specialization        - DeepLearning.AI
-[2026-02]  Machine Learning Specialization     - DeepLearning.AI
-[2025-10]  Mathematics for ML & Data Science   - DeepLearning.AI
-[2026]     AWS Fundamentals                    - Accenture
-[2026]     GenWizard Generative AI             - Accenture
+[2026-02]  NLP Specialization                 — DeepLearning.AI
+[2026-02]  Deep Learning Specialization        — DeepLearning.AI
+[2026-02]  Machine Learning Specialization     — DeepLearning.AI
+[2025-10]  Mathematics for ML & Data Science   — DeepLearning.AI
+[2026]     AWS Fundamentals                    — Accenture
+[2026]     GenWizard Generative AI             — Accenture
            + 38 more
 ```
 
@@ -244,14 +195,14 @@ I build intelligent systems that read the world and act on it - from **large lan
 <!-- ══════════════════ LATEST WRITING ══════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `posts --latest`
 
-> Weekly ML research breakdowns - turning papers into something engineers can actually use.
+> Weekly ML research breakdowns — turning papers into something engineers can actually use.
 
 ```console
 sujay@ml ~ $ posts --latest --platform=linkedin
 
-[AGENT]  AI agents in 2026 can't plan - this paper might fix that
+[AGENT]  AI agents in 2026 can't plan — this paper might fix that
 [TOOLS]  Tool-calling: the hardest unsolved problem in agentic AI
-[FINML]  ML for finance sounds powerful - here's the gap nobody mentions
+[FINML]  ML for finance sounds powerful — here's the gap nobody mentions
 [SCALE]  1M-token context windows: what they actually mean for engineers
 
 sujay@ml ~ $ _
