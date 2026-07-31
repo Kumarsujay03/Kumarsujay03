@@ -25,7 +25,7 @@
 class SujayKumar:
     role       = "Software Engineer @ Accenture"
     research   = "Ex-Research Intern @ ARIES (Aryabhatta Research Institute)"
-    degree     = "B.Tech ECE — Gurukula Kangri Vishwavidyalaya, 2025"
+    degree     = "B.Tech ECE - Gurukula Kangri Vishwavidyalaya, 2025"
     
     focus = [
         "Large Language Models",
@@ -36,7 +36,7 @@ class SujayKumar:
     ]
     
     current = {
-        "reading":  "AI Agent papers — planning, memory, tool orchestration",
+        "reading":  "AI Agent papers - planning, memory, tool orchestration",
         "building": "Financial ML models & LLM-powered agents",
         "writing":  "ML research breakdowns on LinkedIn (weekly)",
         "target":   "ML Research @ Microsoft Research India"
@@ -88,8 +88,8 @@ class SujayKumar:
 
 | | Focus | Details |
 |:--|:------|:--------|
-| 📄 | **READING** | AI Agent architectures — ReAct, Toolformer, Plan-and-Solve, MRKL |
-| ⚡ | **BUILDING** | Financial ML — stock valuation models, reverse DCF with ML-based growth estimates |
+| 📄 | **READING** | AI Agent architectures - ReAct, Toolformer, Plan-and-Solve, MRKL |
+| ⚡ | **BUILDING** | Financial ML - stock valuation models, reverse DCF with ML-based growth estimates |
 | ✍️ | **WRITING** | Weekly ML research breakdowns on LinkedIn (making papers accessible to engineers) |
 | 🎯 | **NEXT** | Multimodal LLMs, RLHF, preference optimization |
 
@@ -111,12 +111,12 @@ class SujayKumar:
 ## `> cat certifications.log`
 
 ```
-[2026-02] ✓ NLP Specialization                    — DeepLearning.AI
-[2026-02] ✓ Deep Learning Specialization           — DeepLearning.AI
-[2026-02] ✓ Machine Learning Specialization        — DeepLearning.AI
-[2025-10] ✓ Mathematics for ML & Data Science      — DeepLearning.AI
-[2026]    ✓ AWS Fundamentals                       — Accenture
-[2026]    ✓ GenWizard Generative AI                — Accenture
+[2026-02] ✓ NLP Specialization                    - DeepLearning.AI
+[2026-02] ✓ Deep Learning Specialization           - DeepLearning.AI
+[2026-02] ✓ Machine Learning Specialization        - DeepLearning.AI
+[2025-10] ✓ Mathematics for ML & Data Science      - DeepLearning.AI
+[2026]    ✓ AWS Fundamentals                       - Accenture
+[2026]    ✓ GenWizard Generative AI                - Accenture
           + 38 more certifications
 ```
 
