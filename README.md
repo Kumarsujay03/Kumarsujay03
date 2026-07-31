@@ -278,7 +278,7 @@ sujay@ml ~ $ _
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=safari&logoColor=c9d1d9)](https://kumarsujay.dev)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=c9d1d9)](mailto:kumarsujay03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=c9d1d9)](mailto:mr.sujaykumar03@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/Kumarsujay03)
 
