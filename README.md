@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/Kumarsujay03">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=45&lines=LLMs+%E2%86%92+Agentic+AI+%E2%86%92+Financial+ML+%E2%86%92+NLP;Turning+research+papers+into+working+systems;Goal%3A+ML+Research+%40+Microsoft+Research+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=45&lines=LLMs+%E2%86%92+Agentic+AI+%E2%86%92+Financial+ML+%E2%86%92+NLP;Turning+research+papers+into+working+systems" alt="Typing SVG" />
 </a>
 
 <br/>
