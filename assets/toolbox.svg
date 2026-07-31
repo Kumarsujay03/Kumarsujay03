@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" role="img" aria-label="AI toolbox — PyTorch, Transformers, LangChain, LlamaIndex, MLflow, Weights and Biases, FastAPI, Ollama, vLLM, OpenAI, Anthropic">
+  <style>
+    .cat { font-family:'JetBrains Mono','Consolas',monospace; font-size:14px; font-weight:700; fill:#58a6ff; }
+    .it  { font-family:'JetBrains Mono','Consolas',monospace; font-size:15px; fill:#c9d1d9; }
+    .sep { fill:#3b4654; }
+  </style>
+
+  <text x="24" y="26" class="cat">&#9656; Frameworks</text>
+  <text x="24" y="52" class="it">
+    <tspan>PyTorch<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>Transformers<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.18s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>LangChain<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.36s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>LlamaIndex<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.54s" repeatCount="indefinite"/></tspan>
+  </text>
+
+  <text x="24" y="92" class="cat">&#9656; Serving &amp; Ops</text>
+  <text x="24" y="118" class="it">
+    <tspan>MLflow<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.72s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>W&amp;B<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>FastAPI<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.08s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>Ollama<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.26s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>vLLM<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.44s" repeatCount="indefinite"/></tspan>
+  </text>
+
+  <text x="24" y="158" class="cat">&#9656; APIs</text>
+  <text x="200" y="158" class="it">
+    <tspan>OpenAI<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.62s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>Anthropic<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.8s" repeatCount="indefinite"/></tspan>
+  </text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Tech stack — Python, TypeScript, JavaScript, C++, SQL, PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, NumPy, Pandas, FastAPI, Node.js, React, Next.js, MongoDB, PostgreSQL, Redis, Docker, AWS, Git, Linux">
+  <style>
+    .cat { font-family:'JetBrains Mono','Consolas',monospace; font-size:14px; font-weight:700; fill:#58a6ff; }
+    .it  { font-family:'JetBrains Mono','Consolas',monospace; font-size:14px; fill:#c9d1d9; }
+    .sep { fill:#3b4654; }
+  </style>
+
+  <!-- LEFT COLUMN -->
+  <text x="24" y="28" class="cat">&#9656; Languages</text>
+  <text x="24" y="52" class="it">
+    <tspan>Python<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>TypeScript<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.15s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>JavaScript<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.3s" repeatCount="indefinite"/></tspan>
+  </text>
+  <text x="24" y="74" class="it">
+    <tspan>C++<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.45s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>SQL<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></tspan>
+  </text>
+
+  <text x="24" y="118" class="cat">&#9656; AI / ML</text>
+  <text x="24" y="142" class="it">
+    <tspan>PyTorch<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.75s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>TensorFlow<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>scikit-learn<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.05s" repeatCount="indefinite"/></tspan>
+  </text>
+  <text x="24" y="164" class="it">
+    <tspan>Hugging Face<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.2s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>LangChain<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.35s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>NumPy<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.5s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>Pandas<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.65s" repeatCount="indefinite"/></tspan>
+  </text>
+
+  <!-- divider -->
+  <line x1="440" y1="16" x2="440" y2="184" stroke="#21262d" stroke-width="1"/>
+
+  <!-- RIGHT COLUMN -->
+  <text x="470" y="28" class="cat">&#9656; Backend / Web</text>
+  <text x="470" y="52" class="it">
+    <tspan>FastAPI<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.3s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>Node.js<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.45s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>React<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>Next.js<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.75s" repeatCount="indefinite"/></tspan>
+  </text>
+
+  <text x="470" y="118" class="cat">&#9656; Data / Infra</text>
+  <text x="470" y="142" class="it">
+    <tspan>MongoDB<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.05s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>PostgreSQL<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.2s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>Redis<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.35s" repeatCount="indefinite"/></tspan>
+  </text>
+  <text x="470" y="164" class="it">
+    <tspan>Docker<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.5s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>AWS<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.65s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>Git<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.8s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>Linux<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="1.95s" repeatCount="indefinite"/></tspan>
+  </text>
+</svg>
