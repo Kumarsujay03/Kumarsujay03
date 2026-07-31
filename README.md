@@ -86,22 +86,12 @@ class SujayKumar:
 
 ## `> research_focus.now()`
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  � READING    AI Agent architectures (ReAct, Toolformer,       │
-│               Plan-and-Solve, MRKL)                             │
-│                                                                 │
-│  ⚡ BUILDING   Financial ML — stock valuation models,           │
-│               reverse DCF with ML-based growth estimates        │
-│                                                                 │
-│  ✍️  WRITING    Weekly ML research breakdowns on LinkedIn        │
-│               (making papers accessible to engineers)           │
-│                                                                 │
-│  🎯 NEXT      Multimodal LLMs, RLHF, preference optimization  │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+| | Focus | Details |
+|:--|:------|:--------|
+| 📄 | **READING** | AI Agent architectures — ReAct, Toolformer, Plan-and-Solve, MRKL |
+| ⚡ | **BUILDING** | Financial ML — stock valuation models, reverse DCF with ML-based growth estimates |
+| ✍️ | **WRITING** | Weekly ML research breakdowns on LinkedIn (making papers accessible to engineers) |
+| 🎯 | **NEXT** | Multimodal LLMs, RLHF, preference optimization |
 
 <br/>
 
@@ -109,10 +99,11 @@ class SujayKumar:
 
 | Project | What it does | Stack |
 |:--------|:-------------|:------|
-| [`TensorTonic-Solutions`](https://github.com/Kumarsujay03/TensorTonic-Solutions) | ML algorithms & end-to-end problem solutions | `Python` `scikit-learn` `NumPy` |
-| [`MindtrackWeb`](https://github.com/Kumarsujay03/MindtrackWeb) | Cross-platform todo with real-time mobile sync | `TypeScript` `Firebase` |
-| [`jnanagni23`](https://github.com/Kumarsujay03/jnanagni23) | Real-time university fest platform (shipped) | `TypeScript` `Firebase` |
-| [`YSF-Admin-Pannel`](https://github.com/Kumarsujay03/YSF-Admin-Pannel) | NGO admin management dashboard | `React` `Node.js` |
+| [`TensorTonic-Solutions`](https://github.com/Kumarsujay03/TensorTonic-Solutions) | ML algorithms & end-to-end problem solutions | `Python` |
+| [`Warehouse`](https://github.com/Kumarsujay03/Warehouse) | Full-stack warehouse management system | `TypeScript` |
+| [`portfoliosujay`](https://github.com/Kumarsujay03/portfoliosujay) | Personal developer portfolio site | `TypeScript` |
+| [`jnanagni23`](https://github.com/Kumarsujay03/jnanagni23) | Real-time university fest platform | `TypeScript` `Firebase` |
+| [`MindtrackWeb`](https://github.com/Kumarsujay03/MindtrackWeb) | Cross-platform todo with real-time mobile sync | `TypeScript` |
 | [`health-care`](https://github.com/Kumarsujay03/health-care) | Healthcare web application | `JavaScript` |
 
 <br/>
@@ -131,20 +122,16 @@ class SujayKumar:
 
 <br/>
 
-## `> contribution_graph`
+## `> contributions`
 
 <div align="center">
 
-<!-- Snake animation - generated from GitHub contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/output/github-snake-dark.svg" width="95%" />
-</picture>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumarsujay03&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=c9d1d9&area_color=1a1b27" width="95%" alt="Contribution Graph"/>
 
 <br/><br/>
 
-<!-- Streak Stats - this one works reliably -->
+<!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Kumarsujay03&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=484f58&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" width="55%"/>
 
 </div>
