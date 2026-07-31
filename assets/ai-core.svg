@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360" role="img" aria-label="AI core with orbiting skill nodes: Python, PyTorch, LLMs, Transformers, RAG, Agents, NLP">
+  <defs>
+    <filter id="soft" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </radialGradient>
+    <style>
+      .lab { font-family:'JetBrains Mono','Consolas',monospace; font-size:11px; font-weight:600; }
+    </style>
+  </defs>
+
+  <!-- faint orbit rings -->
+  <circle cx="180" cy="180" r="90"  fill="none" stroke="#1b2129" stroke-width="1"/>
+  <circle cx="180" cy="180" r="135" fill="none" stroke="#1b2129" stroke-width="1"/>
+
+  <!-- ═══ inner ring: rotate CW ═══ -->
+  <g>
+    <!-- radial links (ride with ring) -->
+    <g stroke="#58a6ff" stroke-width="1">
+      <line x1="180" y1="180" x2="270" y2="180"><animate attributeName="opacity" values="0.15;0.6;0.15" dur="3s" repeatCount="indefinite"/></line>
+      <line x1="180" y1="180" x2="135" y2="257.9"><animate attributeName="opacity" values="0.15;0.6;0.15" dur="3s" begin="1s" repeatCount="indefinite"/></line>
+      <line x1="180" y1="180" x2="135" y2="102.1"><animate attributeName="opacity" values="0.15;0.6;0.15" dur="3s" begin="2s" repeatCount="indefinite"/></line>
+    </g>
+
+    <!-- nodes + upright labels (counter-rotate to cancel spin) -->
+    <g>
+      <circle cx="270" cy="180" r="5" fill="#58a6ff"/>
+      <text x="270" y="196" text-anchor="middle" class="lab" fill="#c9d1d9">Python</text>
+      <animateTransform attributeName="transform" type="rotate" from="0 270 180" to="-360 270 180" dur="18s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="135" cy="257.9" r="5" fill="#58a6ff"/>
+      <text x="135" y="273.9" text-anchor="middle" class="lab" fill="#c9d1d9">PyTorch</text>
+      <animateTransform attributeName="transform" type="rotate" from="0 135 257.9" to="-360 135 257.9" dur="18s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="135" cy="102.1" r="5" fill="#58a6ff"/>
+      <text x="135" y="118.1" text-anchor="middle" class="lab" fill="#c9d1d9">LLMs</text>
+      <animateTransform attributeName="transform" type="rotate" from="0 135 102.1" to="-360 135 102.1" dur="18s" repeatCount="indefinite"/>
+    </g>
+
+    <animateTransform attributeName="transform" type="rotate" from="0 180 180" to="360 180 180" dur="18s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- ═══ outer ring: rotate CCW ═══ -->
+  <g>
+    <g fill="#c9d1d9">
+      <g>
+        <circle cx="275.5" cy="275.5" r="4"/>
+        <text x="275.5" y="291.5" text-anchor="middle" class="lab" fill="#8b949e">Transformers</text>
+        <animateTransform attributeName="transform" type="rotate" from="0 275.5 275.5" to="360 275.5 275.5" dur="26s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <circle cx="84.5" cy="275.5" r="4"/>
+        <text x="84.5" y="291.5" text-anchor="middle" class="lab" fill="#8b949e">RAG</text>
+        <animateTransform attributeName="transform" type="rotate" from="0 84.5 275.5" to="360 84.5 275.5" dur="26s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <circle cx="84.5" cy="84.5" r="4"/>
+        <text x="84.5" y="100.5" text-anchor="middle" class="lab" fill="#8b949e">Agents</text>
+        <animateTransform attributeName="transform" type="rotate" from="0 84.5 84.5" to="360 84.5 84.5" dur="26s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <circle cx="275.5" cy="84.5" r="4"/>
+        <text x="275.5" y="100.5" text-anchor="middle" class="lab" fill="#8b949e">NLP</text>
+        <animateTransform attributeName="transform" type="rotate" from="0 275.5 84.5" to="360 275.5 84.5" dur="26s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <animateTransform attributeName="transform" type="rotate" from="360 180 180" to="0 180 180" dur="26s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- core -->
+  <circle cx="180" cy="180" r="30" fill="#58a6ff" opacity="0.18" filter="url(#soft)">
+    <animate attributeName="r" values="28;36;28" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.1;0.28;0.1" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="180" r="26" fill="url(#core)" stroke="#58a6ff" stroke-width="1.8"/>
+  <text x="180" y="186" text-anchor="middle" font-family="'JetBrains Mono','Consolas',monospace" font-size="16" font-weight="700" fill="#58a6ff" letter-spacing="1">AI</text>
+</svg>
