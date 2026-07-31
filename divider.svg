@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="6" viewBox="0 0 1200 6" preserveAspectRatio="none" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#58a6ff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- base line -->
+  <rect x="0" y="2.5" width="1200" height="1" fill="#21262d"/>
+  <!-- sweeping light -->
+  <rect x="-260" y="2" width="260" height="2" fill="url(#sweep)">
+    <animate attributeName="x" values="-260;1200" dur="4.5s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+</svg>
