@@ -1,109 +1,183 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6FA8DC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sujay+Kumar+%F0%9F%91%8B;Software+Engineer+%40+Accenture;ML+%26+NLP+Researcher+in+Progress;Building+Intelligent+Systems" alt="Typing SVG" />
-</div>
 
----
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=Sujay%20Kumar&fontSize=48&fontColor=c9d1d9&animation=fadeIn&fontAlignY=30&desc=ML%20Engineer%20%7C%20NLP%20Researcher%20%7C%20Building%20Intelligent%20Systems&descAlignY=52&descSize=16&descColor=8b949e" width="100%"/>
 
-### 👨‍💻 About Me
+<!-- Typing Animation -->
+<a href="https://github.com/Kumarsujay03">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=45&lines=LLMs+%E2%86%92+Agentic+AI+%E2%86%92+Financial+ML+%E2%86%92+NLP;Turning+research+papers+into+working+systems;Goal%3A+ML+Research+%40+Microsoft+Research+India" alt="Typing SVG" />
+</a>
 
-- 🏢 **Software Engineer** at Accenture (Advance App Developer Associate)
-- 🔬 **Ex-Research Intern** at ARIES (Aryabhatta Research Institute of Observational Sciences)
-- 🎓 **B.Tech ECE** — Gurukula Kangri Vishwavidyalaya, 2025
-- 🧠 Passionate about **Machine Learning, NLP, and Generative AI**
-- 🌱 Currently exploring **LLMs, Computer Vision, and ML Research**
-- 🌐 Portfolio: [kumarsujay.dev](https://kumarsujay.dev)
+<br/>
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**AI / ML**
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8B4513?style=flat&logo=spacy&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat&logo=openai&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**Backend & Cloud**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-
----
-
-### 🔬 What I'm Working On
-
-- 📚 Deepening expertise in **Large Language Models** and **Retrieval Augmented Generation (RAG)**
-- 🤖 Building small AI projects to bridge the gap between **research and production**
-- ☁️ Strengthening **cloud-native engineering** skills through Accenture training (AWS, Python, SQL)
-- 🧪 Exploring paths toward **ML Research** in NLP and Computer Vision
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [TensorTonic-Solutions](https://github.com/Kumarsujay03/TensorTonic-Solutions) | ML problem solutions and algorithms | Python |
-| [MindtrackWeb](https://github.com/Kumarsujay03/MindtrackWeb) | Cross-platform todo app with mobile sync | TypeScript |
-| [jnanagni23](https://github.com/Kumarsujay03/jnanagni23) | Real-time university fest platform | TypeScript · Firebase |
-| [YSF-Admin-Pannel](https://github.com/Kumarsujay03/YSF-Admin-Pannel) | NGO admin management dashboard | React |
-| [health-care](https://github.com/Kumarsujay03/health-care) | Healthcare web application | JavaScript |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Sujay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumarsujay03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumarsujay03&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Kumarsujay03&theme=tokyonight&hide_border=true)
+<!-- Minimal badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=Kumarsujay03&color=161b22&style=flat-square&label=views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Kumarsujay03?style=flat-square&color=161b22&labelColor=161b22&logo=github&logoColor=c9d1d9)
 
 </div>
 
----
+<br/>
 
-### 🎓 Certifications
+## `> whoami`
 
-- 🏆 **NLP Specialization** — DeepLearning.AI (Feb 2026)
-- 🏆 **Deep Learning Specialization** — DeepLearning.AI (Feb 2026)
-- ☁️ **AWS Fundamentals** — Accenture Training
-- 🤖 **GenWizard Generative AI** — Accenture Training
-- 📜 44+ total certifications
+```python
+class SujayKumar:
+    role       = "Software Engineer @ Accenture"
+    research   = "Ex-Research Intern @ ARIES (Aryabhatta Research Institute)"
+    degree     = "B.Tech ECE — Gurukula Kangri Vishwavidyalaya, 2025"
+    
+    focus = [
+        "Large Language Models",
+        "Agentic AI (planning, memory, tool-use)",
+        "Financial ML (stock evaluation, reverse DCF)",
+        "Natural Language Processing",
+        "MLOps & Production ML"
+    ]
+    
+    current = {
+        "reading":  "AI Agent papers — planning, memory, tool orchestration",
+        "building": "Financial ML models & LLM-powered agents",
+        "writing":  "ML research breakdowns on LinkedIn (weekly)",
+        "target":   "ML Research @ Microsoft Research India"
+    }
+```
 
----
+<br/>
 
-### 🤝 Connect With Me
+## `> tech_stack.ml`
+
+<table>
+<tr>
+<td width="50%">
+
+**Core ML / AI**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![scikit--learn](https://img.shields.io/badge/sklearn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=375BD2)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=flat-square&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
+
+</td>
+<td width="50%">
+
+**Engineering**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `> research_focus.now()`
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  � READING    AI Agent architectures (ReAct, Toolformer,       │
+│               Plan-and-Solve, MRKL)                             │
+│                                                                 │
+│  ⚡ BUILDING   Financial ML — stock valuation models,           │
+│               reverse DCF with ML-based growth estimates        │
+│                                                                 │
+│  ✍️  WRITING    Weekly ML research breakdowns on LinkedIn        │
+│               (making papers accessible to engineers)           │
+│                                                                 │
+│  🎯 NEXT      Multimodal LLMs, RLHF, preference optimization  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+## `> ls projects/`
+
+| Project | What it does | Stack |
+|:--------|:-------------|:------|
+| [`TensorTonic-Solutions`](https://github.com/Kumarsujay03/TensorTonic-Solutions) | ML algorithms & end-to-end problem solutions | `Python` `scikit-learn` `NumPy` |
+| [`MindtrackWeb`](https://github.com/Kumarsujay03/MindtrackWeb) | Cross-platform todo with real-time mobile sync | `TypeScript` `Firebase` |
+| [`jnanagni23`](https://github.com/Kumarsujay03/jnanagni23) | Real-time university fest platform (shipped) | `TypeScript` `Firebase` |
+| [`YSF-Admin-Pannel`](https://github.com/Kumarsujay03/YSF-Admin-Pannel) | NGO admin management dashboard | `React` `Node.js` |
+| [`health-care`](https://github.com/Kumarsujay03/health-care) | Healthcare web application | `JavaScript` |
+
+<br/>
+
+## `> cat certifications.log`
+
+```
+[2026-02] ✓ NLP Specialization                    — DeepLearning.AI
+[2026-02] ✓ Deep Learning Specialization           — DeepLearning.AI
+[2026-02] ✓ Machine Learning Specialization        — DeepLearning.AI
+[2025-10] ✓ Mathematics for ML & Data Science      — DeepLearning.AI
+[2026]    ✓ AWS Fundamentals                       — Accenture
+[2026]    ✓ GenWizard Generative AI                — Accenture
+          + 38 more certifications
+```
+
+<br/>
+
+## `> contribution_graph`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumarsujay03)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://kumarsujay.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Kumarsujay03)
+<!-- Snake animation - generated from GitHub contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/output/github-snake-dark.svg" width="95%" />
+</picture>
+
+<br/><br/>
+
+<!-- Streak Stats - this one works reliably -->
+<img src="https://streak-stats.demolab.com?user=Kumarsujay03&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=484f58&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" width="55%"/>
 
 </div>
 
----
+<br/>
+
+## `> latest_posts --platform=linkedin`
+
+> *Writing about ML research, agentic AI, and financial ML every week.*
+
+- `[AGENT]` AI agents in 2026 can't plan. This paper might fix that.
+- `[TOOLS]` Tool-calling is the hardest unsolved problem in agentic AI.
+- `[FINML]` ML models for finance sound powerful. Here's the gap nobody talks about.
+- `[SCALE]` DeepSeek V4 handles 1M tokens. What that means for engineers.
+
+<br/>
+
+## `> connect`
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kumarsujay03&color=6FA8DC&style=flat&label=Profile+Views" alt="Profile Views" />
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/kumarsujay03)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://kumarsujay.dev)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Kumarsujay03)
+&nbsp;
+[![Email](https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kumarsujay03@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=100&section=footer" width="100%"/>
 </div>
