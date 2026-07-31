@@ -10,13 +10,13 @@
 <div align="center">
 
 <!--
-  Animated constellation banner (auto-loops; does NOT follow cursor - GitHub blocks JS).
+  Animated constellation banner (auto-loops; does NOT follow cursor — GitHub blocks JS).
   Must be referenced by RAW url so the SVG animation plays. Works once committed to the repo.
 -->
 <img
   src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/hero-constellation.svg"
   width="100%"
-  alt="Sujay Kumar - Machine Learning Engineer, AI Researcher"
+  alt="Sujay Kumar — Machine Learning Engineer, AI Researcher"
 />
 
 <a href="https://github.com/Kumarsujay03">
@@ -39,35 +39,33 @@
 <br/>
 
 <!-- ══════════════════ ABOUT ══════════════════ -->
-## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; About
+## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `whoami`
 
-I build intelligent systems that read the world and act on it - from **large language models** and **agentic pipelines** to **financial ML** and production **NLP**. I care less about collecting tools and more about the reasoning behind a system: why an architecture holds, where it breaks, and what a benchmark actually proves.
+I build intelligent systems that read the world and act on it — from **large language models** and **agentic pipelines** to **financial ML** and production **NLP**. I care less about collecting tools and more about the reasoning behind a system: why an architecture holds, where it breaks, and what a benchmark actually proves.
 
-```yaml
-name:        Sujay Kumar
-role:        Software Engineer @ Accenture
-background:  Ex-Research Intern @ ARIES (Aryabhatta Research Institute)
-education:   B.Tech ECE - Gurukula Kangri Vishwavidyalaya (2025)
-location:    India · UTC+05:30
-research:    [ LLMs, Agentic AI, Financial ML, NLP, MLOps ]
-values:      [ First principles, Benchmark-driven, Reproducibility, Clarity ]
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/neofetch.svg" width="80%" alt="Sujay Kumar — system info: Software Engineer @ Accenture, ex-Research Intern @ ARIES, B.Tech ECE 2025, focus on LLMs, Agents, Financial ML, NLP"/>
+
+</div>
 
 <br/>
 
 <!-- ══════════════════ CURRENT FOCUS ══════════════════ -->
-## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; Current Focus
+## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `focus --now`
 
-| | Track | What I'm doing |
-|:--|:--|:--|
-| 📄 | **Reading** | Agent architectures - ReAct, Toolformer, Plan-and-Solve, Reflexion |
-| ⚡ | **Building** | Financial ML - stock valuation, reverse-DCF with ML growth estimates; LLM agents |
-| ✍️ | **Writing** | Weekly ML research breakdowns on LinkedIn - papers, made accessible |
+| | Track | What I'm doing | Depth |
+|:--|:--|:--|:--|
+| 📄 | **Reading** | Agent architectures — ReAct, Toolformer, Plan-and-Solve, Reflexion | `███████░░░` |
+| ⚡ | **Building** | Financial ML — stock valuation, reverse-DCF; LLM agents | `████████░░` |
+| ✍️ | **Writing** | Weekly ML research breakdowns — papers, made accessible | `█████████░` |
 
 <br/>
 
 <!-- ══════════════════ RESEARCH INTERESTS ══════════════════ -->
-## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; AI Research Interests
+## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `research --interests`
+
+> `# the problems I keep coming back to`
 
 <div align="center">
 
@@ -89,7 +87,9 @@ values:      [ First principles, Benchmark-driven, Reproducibility, Clarity ]
 <br/>
 
 <!-- ══════════════════ TECH STACK ══════════════════ -->
-## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; Tech Stack
+## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `tech --stack`
+
+> `# tools I reach for by default`
 
 <table>
 <tr>
@@ -139,7 +139,9 @@ values:      [ First principles, Benchmark-driven, Reproducibility, Clarity ]
 <br/>
 
 <!-- ══════════════════ AI TOOLBOX ══════════════════ -->
-## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; AI Toolbox
+## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `ai --toolbox`
+
+> `# the ML/AI libraries I ship with`
 
 <div align="center">
 
@@ -160,7 +162,7 @@ values:      [ First principles, Benchmark-driven, Reproducibility, Clarity ]
 <br/>
 
 <!-- ══════════════════ ENGINEERING DASHBOARD ══════════════════ -->
-## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; Engineering Dashboard
+## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `git log --stat`
 
 <div align="center">
 
@@ -182,33 +184,44 @@ values:      [ First principles, Benchmark-driven, Reproducibility, Clarity ]
 <br/>
 
 <!-- ══════════════════ CONTRIBUTION GRAPH ══════════════════ -->
-## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; Contribution Graph
+## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `contrib --graph`
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumarsujay03&bg_color=0d1117&color=c9d1d9&line=8b949e&point=e6edf3&area=true&area_color=161b22&hide_border=true" width="98%" alt="Contribution graph"/>
+
+<br/><br/>
+
+<!--
+  Contribution snake — generated by the Platane/snk GitHub Action into the `output` branch.
+  Requires the snake workflow (see .github/workflows/snake.yml) to run at least once.
+  It animates natively on github.com once the `output` branch exists.
+-->
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Contribution snake eating the commit grid"/>
 
 </div>
 
 <br/>
 
 <!-- ══════════════════ CERTIFICATIONS ══════════════════ -->
-## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; Certifications
+## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `cat certs.log`
+
+<img src="https://img.shields.io/badge/44%2B%20certifications%20earned-161b22?style=flat-square&labelColor=0d1117&color=58a6ff&logo=coursera&logoColor=58a6ff" alt="44+ certifications"/>
 
 ```text
-[2026-02]  NLP Specialization                 - DeepLearning.AI
-[2026-02]  Deep Learning Specialization        - DeepLearning.AI
-[2026-02]  Machine Learning Specialization     - DeepLearning.AI
-[2025-10]  Mathematics for ML & Data Science   - DeepLearning.AI
-[2026]     AWS Fundamentals                    - Accenture
-[2026]     GenWizard Generative AI             - Accenture
+[2026-02]  NLP Specialization                 — DeepLearning.AI
+[2026-02]  Deep Learning Specialization        — DeepLearning.AI
+[2026-02]  Machine Learning Specialization     — DeepLearning.AI
+[2025-10]  Mathematics for ML & Data Science   — DeepLearning.AI
+[2026]     AWS Fundamentals                    — Accenture
+[2026]     GenWizard Generative AI             — Accenture
            + 38 more
 ```
 
 <br/>
 
 <!-- ══════════════════ READING LIST ══════════════════ -->
-## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; Reading List
+## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `reading --list`
 
 | Type | Titles |
 |:--|:--|
@@ -216,12 +229,42 @@ values:      [ First principles, Benchmark-driven, Reproducibility, Clarity ]
 | 📄 **Papers** | *Attention Is All You Need* · *ReAct* · *Toolformer* · *Reflexion* · *DPO* |
 | 📰 **Blogs** | OpenAI · Anthropic · Hugging Face · Lilian Weng · The Gradient |
 
+**Now reading** &nbsp; *Reflexion: Language Agents with Verbal Reinforcement Learning* &nbsp; `███████░░░ 70%`
+
+<br/>
+
+<!-- ══════════════════ LATEST WRITING ══════════════════ -->
+## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `posts --latest`
+
+> Weekly ML research breakdowns — turning papers into something engineers can actually use.
+
+```console
+sujay@ml ~ $ posts --latest --platform=linkedin
+
+[AGENT]  AI agents in 2026 can't plan — this paper might fix that
+[TOOLS]  Tool-calling: the hardest unsolved problem in agentic AI
+[FINML]  ML for finance sounds powerful — here's the gap nobody mentions
+[SCALE]  1M-token context windows: what they actually mean for engineers
+
+sujay@ml ~ $ _
+```
+
+<div align="center">
+
+[![Read more on LinkedIn](https://img.shields.io/badge/%E2%86%92%20read%20more%20on%20LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://linkedin.com/in/kumarsujay03)
+
+</div>
+
 <br/>
 
 <!-- ══════════════════ CONNECT ══════════════════ -->
-## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; Connect
+## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; `connect --social`
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/%E2%97%8F%20open%20to-Research%20%26%20ML%20Engineering%20roles-161b22?style=flat-square&labelColor=0d1117&color=58a6ff" alt="open to roles"/>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=c9d1d9)](https://linkedin.com/in/kumarsujay03)
 &nbsp;
@@ -240,6 +283,8 @@ values:      [ First principles, Benchmark-driven, Reproducibility, Clarity ]
 
 <div align="center">
 
-<sub><i>Benchmark everything. Simplify relentlessly. Ship intelligent systems.</i></sub>
+<sub><code>sujay@ml ~ $ echo $MANTRA</code></sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=560&height=32&lines=Benchmark+everything+%C2%B7+Simplify+relentlessly;Ship+intelligent+systems+%C2%B7+Document+everything;Thanks+for+scrolling.+Let's+build+something." alt="sign-off"/>
 
 </div>
