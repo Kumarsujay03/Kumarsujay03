@@ -10,13 +10,13 @@
 <div align="center">
 
 <!--
-  Animated constellation banner (auto-loops; does NOT follow cursor — GitHub blocks JS).
+  Animated constellation banner (auto-loops; does NOT follow cursor - GitHub blocks JS).
   Must be referenced by RAW url so the SVG animation plays. Works once committed to the repo.
 -->
 <img
   src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/hero-constellation.svg"
   width="100%"
-  alt="Sujay Kumar — Machine Learning Engineer, AI Researcher"
+  alt="Sujay Kumar - Machine Learning Engineer, AI Researcher"
 />
 
 <a href="https://github.com/Kumarsujay03">
@@ -41,13 +41,13 @@
 <!-- ══════════════════ ABOUT ══════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; About
 
-I build intelligent systems that read the world and act on it — from **large language models** and **agentic pipelines** to **financial ML** and production **NLP**. I care less about collecting tools and more about the reasoning behind a system: why an architecture holds, where it breaks, and what a benchmark actually proves.
+I build intelligent systems that read the world and act on it - from **large language models** and **agentic pipelines** to **financial ML** and production **NLP**. I care less about collecting tools and more about the reasoning behind a system: why an architecture holds, where it breaks, and what a benchmark actually proves.
 
 ```yaml
 name:        Sujay Kumar
 role:        Software Engineer @ Accenture
 background:  Ex-Research Intern @ ARIES (Aryabhatta Research Institute)
-education:   B.Tech ECE — Gurukula Kangri Vishwavidyalaya (2025)
+education:   B.Tech ECE - Gurukula Kangri Vishwavidyalaya (2025)
 location:    India · UTC+05:30
 research:    [ LLMs, Agentic AI, Financial ML, NLP, MLOps ]
 values:      [ First principles, Benchmark-driven, Reproducibility, Clarity ]
@@ -60,9 +60,9 @@ values:      [ First principles, Benchmark-driven, Reproducibility, Clarity ]
 
 | | Track | What I'm doing |
 |:--|:--|:--|
-| 📄 | **Reading** | Agent architectures — ReAct, Toolformer, Plan-and-Solve, Reflexion |
-| ⚡ | **Building** | Financial ML — stock valuation, reverse-DCF with ML growth estimates; LLM agents |
-| ✍️ | **Writing** | Weekly ML research breakdowns on LinkedIn — papers, made accessible |
+| 📄 | **Reading** | Agent architectures - ReAct, Toolformer, Plan-and-Solve, Reflexion |
+| ⚡ | **Building** | Financial ML - stock valuation, reverse-DCF with ML growth estimates; LLM agents |
+| ✍️ | **Writing** | Weekly ML research breakdowns on LinkedIn - papers, made accessible |
 
 <br/>
 
@@ -196,12 +196,12 @@ values:      [ First principles, Benchmark-driven, Reproducibility, Clarity ]
 ## <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/marker.svg" height="22" alt="◆"/> &nbsp; Certifications
 
 ```text
-[2026-02]  NLP Specialization                 — DeepLearning.AI
-[2026-02]  Deep Learning Specialization        — DeepLearning.AI
-[2026-02]  Machine Learning Specialization     — DeepLearning.AI
-[2025-10]  Mathematics for ML & Data Science   — DeepLearning.AI
-[2026]     AWS Fundamentals                    — Accenture
-[2026]     GenWizard Generative AI             — Accenture
+[2026-02]  NLP Specialization                 - DeepLearning.AI
+[2026-02]  Deep Learning Specialization        - DeepLearning.AI
+[2026-02]  Machine Learning Specialization     - DeepLearning.AI
+[2025-10]  Mathematics for ML & Data Science   - DeepLearning.AI
+[2026]     AWS Fundamentals                    - Accenture
+[2026]     GenWizard Generative AI             - Accenture
            + 38 more
 ```
 
