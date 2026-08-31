@@ -31,6 +31,8 @@
 <img src="https://komarev.com/ghpvc/?username=Kumarsujay03&color=21262d&style=flat-square&label=profile+views" alt="views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/Kumarsujay03?style=flat-square&color=21262d&labelColor=0d1117&logo=github&logoColor=8b949e&label=followers" alt="followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKumarsujay03&query=%24.public_repos&style=flat-square&color=21262d&labelColor=0d1117&logo=github&logoColor=8b949e&label=public%20repos&cacheSeconds=3600" alt="public repos"/>
 
 </div>
 
@@ -125,16 +127,49 @@ I build intelligent systems that read the world and act on it - from **large lan
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumarsujay03&theme=github_dark" width="98%" alt="Profile summary"/>
+<!--
+  All counters pulled straight from GitHub's API via shields.io on each render.
+  shields.io is CDN-backed with near-100% uptime - no flaky third-party card
+  services, no cached placeholder images. Every value is live and self-updating.
+  cacheSeconds=1800 keeps values fresh while respecting GitHub's rate limits.
+-->
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKumarsujay03&query=%24.public_repos&style=for-the-badge&color=21262d&labelColor=0d1117&logo=github&logoColor=58a6ff&label=public%20repos&cacheSeconds=1800" alt="public repos"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Kumarsujay03?style=for-the-badge&color=21262d&labelColor=0d1117&logo=github&logoColor=58a6ff&label=followers&cacheSeconds=1800" alt="followers"/>
 
+<br/>
+
+<img src="https://img.shields.io/github/stars/Kumarsujay03?affiliations=OWNER&style=for-the-badge&color=21262d&labelColor=0d1117&logo=github&logoColor=58a6ff&label=total%20stars&cacheSeconds=1800" alt="total stars"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKumarsujay03&query=%24.following&style=for-the-badge&color=21262d&labelColor=0d1117&logo=github&logoColor=58a6ff&label=following&cacheSeconds=1800" alt="following"/>
+
+<br/><br/>
+
+<!--
+  Live per-language breakdown - shields.io fetches from GitHub's API on each render.
+  Reliable and self-updating. Points at the profile repo; swap the repo name to
+  feature a different project's language split.
+-->
+<img src="https://img.shields.io/github/languages/top/Kumarsujay03/Kumarsujay03?style=flat-square&color=21262d&labelColor=0d1117&logo=github&logoColor=58a6ff&label=top%20language&cacheSeconds=1800" alt="top language"/>
+&nbsp;
+<img src="https://img.shields.io/github/last-commit/Kumarsujay03/Kumarsujay03?style=flat-square&color=21262d&labelColor=0d1117&logo=github&logoColor=58a6ff&label=last%20commit&cacheSeconds=1800" alt="last commit"/>
+
+<br/><br/>
+
+<!--
+  Rich stat cards - generated inside GitHub Actions (.github/workflows/metrics.yml)
+  and committed to this repo, then served from raw.githubusercontent.com.
+  No third-party card server at render time = effectively 100% uptime.
+  These files appear after the "Generate Metrics" workflow runs once.
+-->
 <table>
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kumarsujay03&theme=github_dark" width="100%" alt="Repos per language"/></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kumarsujay03&theme=github_dark" width="100%" alt="Most commit language"/></td>
-</tr>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kumarsujay03&theme=github_dark" width="100%" alt="Stats"/></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kumarsujay03&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive time"/></td>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/metrics/metrics-overview.svg" width="100%" alt="Self-hosted GitHub metrics overview"/>
+</td>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/metrics/metrics-languages.svg" width="100%" alt="Self-hosted top languages breakdown"/>
+</td>
 </tr>
 </table>
 
@@ -147,7 +182,13 @@ I build intelligent systems that read the world and act on it - from **large lan
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumarsujay03&bg_color=0d1117&color=c9d1d9&line=8b949e&point=e6edf3&area=true&area_color=161b22&hide_border=true" width="98%" alt="Contribution graph"/>
+<!--
+  Isometric contribution calendar - generated inside GitHub Actions
+  (.github/workflows/metrics.yml) and committed to this repo, served from
+  raw.githubusercontent.com. Replaces the previous third-party activity graph
+  that went down with HTTP 402. Appears after the workflow runs once.
+-->
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/metrics/metrics-calendar.svg" width="98%" alt="Isometric contribution calendar"/>
 
 <br/><br/>
 

@@ -1,0 +1,70 @@
+name: Generate Metrics
+
+# Renders profile stat SVGs entirely inside GitHub Actions (lowlighter/metrics)
+# and commits them to this repo. The README references the committed files via
+# raw.githubusercontent.com, so they are served by GitHub itself - no runtime
+# dependency on any third-party card server, hence effectively 100% uptime.
+on:
+  schedule:
+    - cron: "0 */6 * * *"     # every 6 hours
+  workflow_dispatch:           # allow manual runs
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # ── 1. Overview card: repos, stars, commits, followers, activity summary ──
+      - name: Metrics - overview
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Kumarsujay03
+          filename: metrics/metrics-overview.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_output: svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): refresh overview [skip ci]"
+
+      # ── 2. Languages card: live top-language breakdown ──
+      - name: Metrics - languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Kumarsujay03
+          filename: metrics/metrics-languages.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sort: size
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): refresh languages [skip ci]"
+
+      # ── 3. Isometric contribution calendar: replaces the broken activity graph ──
+      - name: Metrics - contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Kumarsujay03
+          filename: metrics/metrics-calendar.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): refresh calendar [skip ci]"
