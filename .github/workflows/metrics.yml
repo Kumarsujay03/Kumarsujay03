@@ -54,21 +54,18 @@ jobs:
           committer_branch: main
           committer_message: "chore(metrics): refresh languages [skip ci]"
 
-      # ── 3. Isometric contribution calendar: replaces the broken activity graph ──
+      # ── 3. Contribution calendar: flat GitHub-style heatmap (not isometric) ──
+      # Simple horizontal grid that matches the flat 0d1117 profile theme.
       - name: Metrics - contribution calendar
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Kumarsujay03
           filename: metrics/metrics-calendar.svg
-          # Terminal template frames the isometric calendar in a dark terminal
-          # window, so it blends with the profile theme instead of rendering on
-          # a bright white grid background.
-          template: terminal
           base: ""
           config_timezone: Asia/Kolkata
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_calendar: yes
+          plugin_calendar_limit: 1          # last 1 year of contributions
           output_action: commit
           committer_branch: main
           committer_message: "chore(metrics): refresh calendar [skip ci]"

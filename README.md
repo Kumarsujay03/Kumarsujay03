@@ -150,12 +150,12 @@ I build intelligent systems that read the world and act on it - from **large lan
 <div align="center">
 
 <!--
-  Isometric contribution calendar - generated inside GitHub Actions
-  (.github/workflows/metrics.yml) and committed to this repo, served from
-  raw.githubusercontent.com. Replaces the previous third-party activity graph
-  that went down with HTTP 402. Appears after the workflow runs once.
+  Flat contribution calendar - generated inside GitHub Actions
+  (.github/workflows/metrics.yml), committed to this repo, served from
+  raw.githubusercontent.com. Fully self-hosted (served by GitHub) = reliable,
+  on-theme, no third-party graph service.
 -->
-<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/metrics/metrics-calendar.svg" width="98%" alt="Isometric contribution calendar"/>
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/metrics/metrics-calendar.svg" width="98%" alt="Contribution calendar"/>
 
 <br/><br/>
 
