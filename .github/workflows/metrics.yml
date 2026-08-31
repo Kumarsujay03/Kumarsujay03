@@ -48,6 +48,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_ignored: php   # hide PHP - not a language I work in
           plugin_languages_limit: 8
           plugin_languages_sort: size
           output_action: commit

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Tech stack — Python, TypeScript, JavaScript, C++, SQL, PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, NumPy, Pandas, FastAPI, Node.js, React, Next.js, MongoDB, PostgreSQL, Redis, Docker, AWS, Git, Linux">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Tech stack — Python, TypeScript, JavaScript, C++, SQL, PHP, PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, NumPy, Pandas, FastAPI, Node.js, React, Next.js, MongoDB, PostgreSQL, Redis, Docker, AWS, Git, Linux">
   <style>
     .cat { font-family:'JetBrains Mono','Consolas',monospace; font-size:14px; font-weight:700; fill:#58a6ff; }
     .it  { font-family:'JetBrains Mono','Consolas',monospace; font-size:14px; fill:#c9d1d9; }
@@ -11,7 +11,7 @@
     <tspan>Python<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>TypeScript<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.15s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>JavaScript<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.3s" repeatCount="indefinite"/></tspan>
   </text>
   <text x="24" y="74" class="it">
-    <tspan>C++<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.45s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>SQL<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></tspan>
+    <tspan>C++<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.45s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>SQL<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></tspan><tspan class="sep"> &#183; </tspan><tspan>PHP<animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="0.68s" repeatCount="indefinite"/></tspan>
   </text>
 
   <text x="24" y="118" class="cat">&#9656; AI / ML</text>
