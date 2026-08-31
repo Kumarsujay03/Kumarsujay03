@@ -65,6 +65,18 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          # Match the profile theme: dark SVG background (removes the white card
+          # look) + dark base grid. Isometric cells keep the green commit scale.
+          extras_css: >
+            :root { --color-calendar-graph-day-bg: #161b22; }
+            svg, svg image { background: #0d1117 !important; }
+            .background, rect.background { fill: #0d1117 !important; }
+            #isocalendar .cube-face-top,
+            #isocalendar .cube-face-left,
+            #isocalendar .cube-face-right { opacity: 1; }
+            #isocalendar rect,
+            #isocalendar .calendar-graph rect { fill: #161b22 !important; }
+            text, .title, .value { fill: #c9d1d9 !important; }
           output_action: commit
           committer_branch: main
           committer_message: "chore(metrics): refresh calendar [skip ci]"

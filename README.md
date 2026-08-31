@@ -29,10 +29,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Kumarsujay03&color=21262d&style=flat-square&label=profile+views" alt="views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Kumarsujay03?style=flat-square&color=21262d&labelColor=0d1117&logo=github&logoColor=8b949e&label=followers" alt="followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKumarsujay03&query=%24.public_repos&style=flat-square&color=21262d&labelColor=0d1117&logo=github&logoColor=8b949e&label=public%20repos&cacheSeconds=3600" alt="public repos"/>
 
 </div>
 
@@ -124,35 +120,6 @@ I build intelligent systems that read the world and act on it - from **large lan
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/commit-terminal.svg" width="80%" alt="git commit terminal - feat: planner + tool router, tests passed, deployed"/>
-
-<br/><br/>
-
-<!--
-  All counters pulled straight from GitHub's API via shields.io on each render.
-  shields.io is CDN-backed with near-100% uptime - no flaky third-party card
-  services, no cached placeholder images. Every value is live and self-updating.
-  cacheSeconds=1800 keeps values fresh while respecting GitHub's rate limits.
--->
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKumarsujay03&query=%24.public_repos&style=for-the-badge&color=21262d&labelColor=0d1117&logo=github&logoColor=58a6ff&label=public%20repos&cacheSeconds=1800" alt="public repos"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Kumarsujay03?style=for-the-badge&color=21262d&labelColor=0d1117&logo=github&logoColor=58a6ff&label=followers&cacheSeconds=1800" alt="followers"/>
-
-<br/>
-
-<img src="https://img.shields.io/github/stars/Kumarsujay03?affiliations=OWNER&style=for-the-badge&color=21262d&labelColor=0d1117&logo=github&logoColor=58a6ff&label=total%20stars&cacheSeconds=1800" alt="total stars"/>
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKumarsujay03&query=%24.following&style=for-the-badge&color=21262d&labelColor=0d1117&logo=github&logoColor=58a6ff&label=following&cacheSeconds=1800" alt="following"/>
-
-<br/><br/>
-
-<!--
-  Live per-language breakdown - shields.io fetches from GitHub's API on each render.
-  Reliable and self-updating. Points at the profile repo; swap the repo name to
-  feature a different project's language split.
--->
-<img src="https://img.shields.io/github/languages/top/Kumarsujay03/Kumarsujay03?style=flat-square&color=21262d&labelColor=0d1117&logo=github&logoColor=58a6ff&label=top%20language&cacheSeconds=1800" alt="top language"/>
-&nbsp;
-<img src="https://img.shields.io/github/last-commit/Kumarsujay03/Kumarsujay03?style=flat-square&color=21262d&labelColor=0d1117&logo=github&logoColor=58a6ff&label=last%20commit&cacheSeconds=1800" alt="last commit"/>
 
 <br/><br/>
 
