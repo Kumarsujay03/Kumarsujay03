@@ -5,12 +5,10 @@ name: Generate Metrics
 # raw.githubusercontent.com, so they are served by GitHub itself - no runtime
 # dependency on any third-party card server, hence effectively 100% uptime.
 on:
-  schedule:
-    - cron: "0 */6 * * *"     # every 6 hours
-  workflow_dispatch:           # allow manual runs
+  workflow_dispatch:           # run manually from the Actions tab
   push:
     branches:
-      - main
+      - main                   # refresh after every commit to main
 
 permissions:
   contents: write
@@ -18,7 +16,7 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 40
     steps:
       # ── 1. Overview card: repos, stars, commits, followers, activity summary ──
       - name: Metrics - overview
@@ -45,7 +43,7 @@ jobs:
           base: ""
           config_timezone: Asia/Kolkata
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 30
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_ignored: php   # hide PHP - not a language I work in
