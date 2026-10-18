@@ -28,7 +28,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kumarsujay03&color=21262d&style=flat-square&label=profile+views" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=Kumarsujay03&color=21262d&style=flat-square&label=profile+views&abbreviated=true" alt="views"/>
 
 </div>
 
