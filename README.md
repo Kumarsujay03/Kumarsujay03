@@ -43,7 +43,7 @@ I build intelligent systems that read the world and act on it - from **large lan
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/neofetch.svg" width="80%" alt="Sujay Kumar - system info: Software Engineer @ Accenture, ex-Research Intern @ ARIES, B.Tech ECE 2025, focus on LLMs, Agents, Financial ML, NLP"/>
+<img src="https://raw.githubusercontent.com/Kumarsujay03/Kumarsujay03/main/assets/neofetch.svg" width="80%" alt="Sujay Kumar - system info: Software Engineer (2025 grad, open to work), ex-Project Intern @ ARIES, B.Tech ECE 2025, focus on LLMs, Agents, Financial ML, NLP"/>
 
 </div>
 
@@ -170,8 +170,8 @@ I build intelligent systems that read the world and act on it - from **large lan
 [2026-02]  Deep Learning Specialization        - DeepLearning.AI
 [2026-02]  Machine Learning Specialization     - DeepLearning.AI
 [2025-10]  Mathematics for ML & Data Science   - DeepLearning.AI
-[2026]     AWS Fundamentals                    - Accenture
-[2026]     GenWizard Generative AI             - Accenture
+[2024-02]  Programming with JavaScript        - Meta
+[2023-09]  Data Structures & Algorithms (Java) - Coding Ninjas
            + 38 more
 ```
 
@@ -225,7 +225,7 @@ sujay@ml ~ $ _
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=c9d1d9)](https://linkedin.com/in/kumarsujay03)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=safari&logoColor=c9d1d9)](https://kumarsujay.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=safari&logoColor=c9d1d9)](https://portfoliosujay.vercel.app/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=c9d1d9)](mailto:mr.sujaykumar03@gmail.com)
 &nbsp;
